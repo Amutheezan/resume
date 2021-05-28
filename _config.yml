@@ -54,14 +54,13 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content_1:
+    content:
       - layout: left
         title: University of Houston
         link: https://www.uh.edu/
         sub_title: Graduate Research Assistant
         caption: September 2019 - Present
 
-    content_2:
       - layout: left
         title: Millennium Information Technologies (Pvt) Limited
         link: https://www.lseg.com/markets-products-and-services/technology/lseg-technology
@@ -88,28 +87,26 @@ content:
           
           Worked on Front-End Development for both Product and Solution which consists of Enhancement, Bug Fixing, Merging and Introducing new features.
 
-    content_3:
-    - layout: left
-      title: WSO2 Lanka (Pvt) Limited
-      link: https://wso2.com/about/
-      sub_title: Software Engieering Intern
-      caption: July 2016 - December 2016
-      description: |
-         Alerting critical issues in the medical industry by evaluating the HL7Message.
-         
-         Analysis of the Message flow through out the organization. 
-         
-         Enhancing the Query capabilities for Message with a highly complex combination of attribute.
+      - layout: left
+        title: WSO2 Lanka (Pvt) Limited
+        link: https://wso2.com/about/
+        sub_title: Software Engieering Intern
+        caption: July 2016 - December 2016
+        description: |
+           Alerting critical issues in the medical industry by evaluating the HL7Message.
+
+           Analysis of the Message flow through out the organization.
+
+           Enhancing the Query capabilities for Message with a highly complex combination of attribute.
          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    content_1:
+    content:
       - layout: left
         title: University of Houston
         caption: 2019 Fall - Present
         sub_title: Ph.D in Computer and Information Sciences.
 
-    content_2:
       - layout: left
         title: University of Moratuwa
         caption: 2014 January - 2018 Januray
