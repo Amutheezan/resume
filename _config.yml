@@ -106,11 +106,18 @@ content:
         layout: left
         caption: 2019 Fall - Present
         sub_title: Ph.D in Computer and Information Sciences.
+        description: |
+           Course Works:
+           * Machine Learning * Artificial Intelligence * Advance Numerical Analysis
+           * Operating Systems * Computer Architecture * Automata and Theory of Computing
 
       - title: University of Moratuwa
         layout: left
         caption: 2014 January - 2018 Januray
         sub_title: B.Sc. in Engineering (Computer Science and Engineering)
+        description: |
+          Course Works:
+          * Data Mining * Intelligent Systems * Operational Research
 
 # Footer
 footer_show_references: false
