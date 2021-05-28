@@ -55,14 +55,14 @@ content:
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: University of Houston
+      - title: University of Houston
+        layout: left
         link: https://www.uh.edu/
         sub_title: Graduate Research Assistant
         caption: September 2019 - Present
 
-      - layout: left
-        title: Millennium Information Technologies (Pvt) Limited
+      - title: Millennium Information Technologies (Pvt) Limited
+        layout: left
         link: https://www.lseg.com/markets-products-and-services/technology/lseg-technology
         sub_title: Software Engineer
         caption: January 2018 - July 2019
@@ -87,8 +87,8 @@ content:
           
           Worked on Front-End Development for both Product and Solution which consists of Enhancement, Bug Fixing, Merging and Introducing new features.
 
-      - layout: left
-        title: WSO2 Lanka (Pvt) Limited
+      - title: WSO2 Lanka (Pvt) Limited
+        layout: left
         link: https://wso2.com/about/
         sub_title: Software Engieering Intern
         caption: July 2016 - December 2016
@@ -102,13 +102,13 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: University of Houston
+      - title: University of Houston
+        layout: left
         caption: 2019 Fall - Present
         sub_title: Ph.D in Computer and Information Sciences.
 
-      - layout: left
-        title: University of Moratuwa
+      - title: University of Moratuwa
+        layout: left
         caption: 2014 January - 2018 Januray
         sub_title: B.Sc. in Engineering (Computer Science and Engineering)
 
