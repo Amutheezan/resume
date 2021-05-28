@@ -84,7 +84,7 @@ content:
         layout: left
         link: https://www.lseg.com/markets-products-and-services/technology/lseg-technology
         sub_title: Software Engineer
-        caption: January 2018 - July 2019
+        caption: Jan 2018 - Jul 2019
         description: | # this will include new lines to allow paragraphs
           Working experience with languages such as Java, Python, and C++.
           
@@ -102,7 +102,7 @@ content:
         layout: left
         link: https://wso2.com/about/
         sub_title: Software Engieering Intern
-        caption: July 2016 - December 2016
+        caption: Jul 2016 - Dec 2016
         description: |
            Alerting critical issues in the medical industry by evaluating the HL7Message.
 
@@ -125,7 +125,7 @@ content:
 
       - title: University of Moratuwa
         layout: left
-        caption: 2014 January - 2018 January | CGPA 3.81/4.20
+        caption: 2014 Jan - 2018 Jan | CGPA 3.81/4.20
         sub_title: B.Sc. in Engineering (Computer Science and Engineering)
         description: |
           Course Works:
