@@ -48,8 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/display_picture.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am currently in my 2nd year of PhD, I joined in the Resilient Networks and Systems (RNS) Lab as a Ph.D. Student in Fall 2019.
-  My research interest is in Machine Learning and Data Mining. 
+  Hi, I am Amutheezan Sivagnanam. I am currently in my 2nd year of Ph.D.
+
+  I joined in the Resilient Networks and Systems (RNS) Lab as a Ph.D. Student in Fall 2019.
+
+  I am currently focusing on research works on **Artificial Intelligence**, **Machine Learning** and **Data Mining**.
   
 content:
   - title: Work Experience # Title for the section
@@ -62,7 +65,7 @@ content:
         caption: September 2019 - Present
         description: | # this will include new lines to allow paragraphs
 
-          Lab: Resillient Network Systems Lab
+          Lab: Resilient Networks and Systems (RNSLab)
 
           Supervisor: Dr. Aron Laszka
 
