@@ -61,6 +61,13 @@ content:
         sub_title: Graduate Research Assistant
         caption: September 2019 - Present
         description: | # this will include new lines to allow paragraphs
+
+          Lab: Resillient Network Systems Lab
+
+          Supervisor: Dr. Aron Laszka
+
+          Projects and Focus:
+
           Working on research projects focusing on optimizing transit-networks using
           Artificial Intelligence and Machine Learning.
 
