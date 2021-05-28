@@ -112,6 +112,7 @@ content:
         caption: 2019 Fall - Present
         sub_title: Ph.D in Computer and Information Sciences.
 
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of Moratuwa
