@@ -60,6 +60,15 @@ content:
         link: https://www.uh.edu/
         sub_title: Graduate Research Assistant
         caption: September 2019 - Present
+        description: | # this will include new lines to allow paragraphs
+          Working on research projects focusing on optimizing transit-networks using
+          Artificial Intelligence and Machine Learning.
+
+          * Optimization of para-transit rides ensuring real-world constraints.
+
+          * Energy optimization on bus-transit network operating with mixed-fleet of vehicles.
+
+          Working on research projects based on BugBounty in Chromimum
 
       - title: Millennium Information Technologies (Pvt) Limited
         layout: left
@@ -67,10 +76,6 @@ content:
         sub_title: Software Engineer
         caption: January 2018 - July 2019
         description: | # this will include new lines to allow paragraphs
-          Writing application software in the Object-Oriented manner.
-          
-          Practicing agile development practices.
-          
           Working experience with languages such as Java, Python, and C++.
           
           Introduce Unit Testing for Libraries in Post Trade C++ Code.
@@ -78,13 +83,9 @@ content:
           Worked on Making changes in DB and Tested with BDD based Testing.
           
           Completed the Code Integration works related to Back-End Regression.
-          
-          Updated automatic updates to auto-generated codes based on Database changes using Integration Plans.
-          
+
           Participated in Code Integration and Code Deployment Plans.
-          
-          Participated in professional training programs conducted by Millennium IT Software and Post Trade Team.
-          
+
           Worked on Front-End Development for both Product and Solution which consists of Enhancement, Bug Fixing, Merging and Introducing new features.
 
       - title: WSO2 Lanka (Pvt) Limited
@@ -108,8 +109,9 @@ content:
         sub_title: Ph.D in Computer and Information Sciences.
         description: |
            Course Works:
-           * Machine Learning * Artificial Intelligence * Advance Numerical Analysis
-           * Operating Systems * Computer Architecture * Automata and Theory of Computing
+           * Machine Learning
+           * Artificial Intelligence
+           * Advance Numerical Analysis
 
       - title: University of Moratuwa
         layout: left
@@ -117,7 +119,9 @@ content:
         sub_title: B.Sc. in Engineering (Computer Science and Engineering)
         description: |
           Course Works:
-          * Data Mining * Intelligent Systems * Operational Research
+          * Data Mining
+          * Intelligent Systems
+          * Operational Research
 
 # Footer
 footer_show_references: false
