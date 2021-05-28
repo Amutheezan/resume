@@ -61,6 +61,7 @@ content:
         sub_title: Graduate Research Assistant
         caption: September 2019 - Present
 
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Millennium Information Technologies (Pvt) Limited
@@ -88,6 +89,7 @@ content:
           
           Worked on Front-End Development for both Product and Solution which consists of Enhancement, Bug Fixing, Merging and Introducing new features.
 
+    layout: list # Type of content section (list/text)
     content:
     - layout: left
       title: WSO2 Lanka (Pvt) Limited
