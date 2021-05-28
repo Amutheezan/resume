@@ -51,6 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I am currently in my 2nd year of PhD, I joined in the Resilient Networks and Systems (RNS) Lab as a Ph.D. Student in Fall 2019.
   My research interest is in Machine Learning and Data Mining. 
 
+content:
 - title: Research Experience # Title for the section
    layout: list # Type of content section (list/text)    
    content:
