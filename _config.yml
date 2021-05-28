@@ -58,22 +58,15 @@ content:
       - layout: left
         title: University of Houston
         link: https://www.uh.edu/
-        # link_text: boringcompany.com
         sub_title: Graduate Research Assistant
         caption: September 2019 - Present
-        # quote: >
-          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        # description: | # this will include new lines to allow paragraphs
-            # Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
+    content:
       - layout: left
         title: Millennium Information Technologies (Pvt) Limited
         link: https://www.lseg.com/markets-products-and-services/technology/lseg-technology
-        # link_text: boringcompany.com
         sub_title: Software Engineer
         caption: January 2018 - July 2019
-        # quote: >
-          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           Writing application software in the Object-Oriented manner.
           
@@ -95,18 +88,19 @@ content:
           
           Worked on Front-End Development for both Product and Solution which consists of Enhancement, Bug Fixing, Merging and Introducing new features.
 
+    content:
     - layout: left
       title: WSO2 Lanka (Pvt) Limited
-      link: boringcompany.com
-      # link_text: boringcompany.com
+      link: https://wso2.com/about/
       sub_title: Software Engieering Intern
       caption: July 2016 - December 2016
-      # quote: >
-        # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      description: | # this will include new lines to allow paragraphs
+      description: |
          Alerting critical issues in the medical industry by evaluating the HL7Message.
+         
          Analysis of the Message flow through out the organization. 
+         
          Enhancing the Query capabilities for Message with a highly complex combination of attribute.
+         
 
 
 content:
@@ -117,24 +111,12 @@ content:
         title: University of Houston
         caption: 2019 Fall - Present
         sub_title: Ph.D in Computer and Information Sciences.
-        # quote: >
-          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-         # description: | # this will include new lines to allow paragraphs
-          # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-    - layout: left
-      title: University of Moratuwa
-      caption: 2014 January - 2018 Januray
-      sub_title: B.Sc. in Engineering (Computer Science and Engineering)
-      # quote: >
-        # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-      # description: | # this will include new lines to allow paragraphs
-        # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-        # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+    content:
+      - layout: left
+        title: University of Moratuwa
+        caption: 2014 January - 2018 Januray
+        sub_title: B.Sc. in Engineering (Computer Science and Engineering)
 
 # Footer
 footer_show_references: false
