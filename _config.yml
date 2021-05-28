@@ -50,20 +50,26 @@ about_profile_image: images/display_picture.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am currently in my 2nd year of PhD, I joined in the Resilient Networks and Systems (RNS) Lab as a Ph.D. Student in Fall 2019.
   My research interest is in Machine Learning and Data Mining. 
-
+  
 content:
-- title: Research Experience # Title for the section
-   layout: list # Type of content section (list/text)    
-   content:
-    - layout: top-middle
-      title: Optimizing para-transit ride scheduling.
-      # link: github.com/sproogen
-      # link_text: Project Website
-
-      # quote: >
-        # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-      description: | # this will include new lines to allow paragraphs
-         This is an ongoing research
+  - title: Research Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
 # Footer
