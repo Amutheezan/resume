@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   
 content:
   - title: Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
         title: University of Houston
@@ -61,7 +61,7 @@ content:
         sub_title: Graduate Research Assistant
         caption: September 2019 - Present
 
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
         title: Millennium Information Technologies (Pvt) Limited
