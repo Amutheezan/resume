@@ -51,17 +51,17 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I am currently in my 2nd year of PhD, I joined in the Resilient Networks and Systems (RNS) Lab as a Ph.D. Student in Fall 2019.
   My research interest is in Machine Learning and Data Mining. 
   
-content:
+work_experience_content:
+  layout: list # Type of content section (list/text)
   - title: Work Experience # Title for the section
-    content:
+    work_experience_content_1:
       - layout: left
         title: University of Houston
         link: https://www.uh.edu/
         sub_title: Graduate Research Assistant
         caption: September 2019 - Present
 
-    layout: list # Type of content section (list/text)
-    content:
+    work_experience_content_2:
       - layout: left
         title: Millennium Information Technologies (Pvt) Limited
         link: https://www.lseg.com/markets-products-and-services/technology/lseg-technology
@@ -88,8 +88,7 @@ content:
           
           Worked on Front-End Development for both Product and Solution which consists of Enhancement, Bug Fixing, Merging and Introducing new features.
 
-    layout: list # Type of content section (list/text)
-    content:
+    work_experience_content_3:
     - layout: left
       title: WSO2 Lanka (Pvt) Limited
       link: https://wso2.com/about/
@@ -104,17 +103,16 @@ content:
          
 
 
-content:
+education_content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    education_content_1:
       - layout: left
         title: University of Houston
         caption: 2019 Fall - Present
         sub_title: Ph.D in Computer and Information Sciences.
 
-    layout: list # Type of content section (list/text)
-    content:
+    education_content_2:
       - layout: left
         title: University of Moratuwa
         caption: 2014 January - 2018 Januray
