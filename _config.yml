@@ -69,16 +69,13 @@ content:
 
           Supervisor: Dr. Aron Laszka
 
-          Projects and Focus:
+          Research Projects:
 
-          Working on research projects focusing on optimizing transit-networks using
-          Artificial Intelligence and Machine Learning.
-
-          * Optimization of para-transit rides ensuring real-world constraints.
-
-          * Energy optimization on bus-transit network operating with mixed-fleet of vehicles.
-
-          Working on research projects based on BugBounty in Chromium.
+          Minimizing Energy Usage in Transit Agencies Operating with Mixed-Fleet of Vehicles (Published in AAAI-21)
+          
+          Offline Vehicle Routing with Online Bookings (Accepted in IJCAI-22)
+          
+          Benefits of Bug Bounty Programs
 
       - title: LESG Technology (previously MillenniumIT)
         layout: left
@@ -122,6 +119,8 @@ content:
            * Machine Learning
            * Artificial Intelligence
            * Advance Numerical Analysis
+           * Computer Architecture
+           * Operating System
 
       - title: University of Moratuwa
         layout: left
