@@ -71,11 +71,11 @@ content:
 
           Research Projects:
 
-          Minimizing Energy Usage in Transit Agencies Operating with Mixed-Fleet of Vehicles (Published in AAAI-21)
+          * Minimizing Energy Usage in Transit Agencies Operating with Mixed-Fleet of Vehicles (Published in AAAI-21)
           
-          Offline Vehicle Routing with Online Bookings (Accepted in IJCAI-22)
+          * Offline Vehicle Routing with Online Bookings (Accepted in IJCAI-22)
           
-          Benefits of Bug Bounty Programs
+          * Benefits of Bug Bounty Programs
 
       - title: LESG Technology (previously MillenniumIT)
         layout: left
@@ -83,17 +83,17 @@ content:
         sub_title: Software Engineer
         caption: Jan 2018 - Jul 2019
         description: | # this will include new lines to allow paragraphs
-          Working experience with languages such as Java, Python, and C++.
+          * Working experience with languages such as Java, Python, and C++.
           
-          Introduce Unit Testing for Libraries in Post Trade C++ Code.
+          * Introduce Unit Testing for Libraries in Post Trade C++ Code.
           
-          Worked on Making changes in DB and Tested with BDD based Testing.
+          * Worked on Making changes in DB and Tested with BDD based Testing.
           
-          Completed the Code Integration works related to Back-End Regression.
+          * Completed the Code Integration works related to Back-End Regression.
 
-          Participated in Code Integration and Code Deployment Plans.
+          * Participated in Code Integration and Code Deployment Plans.
 
-          Worked on Front-End Development for both Product and Solution which consists of Enhancement, Bug Fixing, Merging and Introducing new features.
+          * Worked on Front-End Development for both Product and Solution which consists of Enhancement, Bug Fixing, Merging and Introducing new features.
 
       - title: WSO<sub>2</sub> Lanka (Pvt) Limited
         layout: left
@@ -101,11 +101,11 @@ content:
         sub_title: Software Engieering Intern
         caption: Jul 2016 - Dec 2016
         description: |
-           Alerting critical issues in the medical industry by evaluating the HL7Message.
+           * Alerting critical issues in the medical industry by evaluating the HL7Message.
 
-           Analysis of the Message flow through out the organization.
+           * Analysis of the Message flow through out the organization.
 
-           Enhancing the Query capabilities for Message with a highly complex combination of attribute.
+           * Enhancing the Query capabilities for Message with a highly complex combination of attribute.
          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
