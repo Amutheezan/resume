@@ -58,6 +58,17 @@ content:
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - title: Pennsylvania State University
+        layout: left
+        link: https://www.uh.edu/
+        sub_title: Graduate Research Assistant
+        caption: August 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+
+          Lab: **Resilient Networks and Systems (RNSLab)**
+
+          Supervisor: Dr. Aron Laszka
+          
       - title: University of Houston
         layout: left
         link: https://www.uh.edu/
