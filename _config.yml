@@ -123,8 +123,11 @@ content:
     content:
       - title: Pennsylvania State University
         layout: left
-        caption: 2022 Fall
+        caption: 2022 Fall | CGPA 4.00/4.00 
         sub_title: Ph.D. in Informatics
+        description: |
+           Course Works:
+           * Data Mining
         
       - title: University of Houston
         layout: left
@@ -136,7 +139,8 @@ content:
            * Artificial Intelligence
            * Advance Numerical Analysis
            * Computer Architecture
-           * Operating System
+           * Operating Systems
+           * Cloud Computing
 
       - title: University of Moratuwa
         layout: left
