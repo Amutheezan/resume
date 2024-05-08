@@ -70,6 +70,10 @@ content:
           Lab: **Resilient Networks and Systems (RNSLab)**
 
           Supervisor: Dr. Aron Laszka
+
+          Research Projects:
+
+          * Multi-Agent Reinforcement Learning with Hierarchical Coordination for Emergency Responder Stationing (Accepted in **ICML-24**)
           
       - title: University of Houston
         layout: left
@@ -88,7 +92,7 @@ content:
           
           * Offline Vehicle Routing with Online Bookings (Published in **IJCAI-22**)
           
-          * Benefits of Bug Bounty Programs (Published in **WWW-23**)
+          *  The Benefits of Vulnerability Discovery and Bug Bounty Programs (Presented in **WEIS-21***, Published in **WWW-23**)
 
       - title: LESG Technology (previously MillenniumIT)
         layout: left
