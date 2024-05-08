@@ -67,7 +67,7 @@ content:
         caption: August 2022 - Present
         description: | # this will include new lines to allow paragraphs
 
-          Lab: **Resilient Networks and Systems (RNSLab)**
+          Lab: **Applied Artificial Intelligence Lab (AAILab)**
 
           Supervisor: Dr. Aron Laszka
 
@@ -82,7 +82,7 @@ content:
         caption: September 2019 - August 2022
         description: | # this will include new lines to allow paragraphs
 
-          Lab: **Resilient Networks and Systems (RNSLab)**
+          Lab: **Resilient Networks and Systems Lab (RNSLab)**
 
           Supervisor: Dr. Aron Laszka
 
@@ -92,7 +92,7 @@ content:
           
           * Offline Vehicle Routing with Online Bookings (Published in **IJCAI-22**)
           
-          *  The Benefits of Vulnerability Discovery and Bug Bounty Programs (Presented in **WEIS-21***, Published in **WWW-23**)
+          *  The Benefits of Vulnerability Discovery and Bug Bounty Programs (Presented in **WEIS-21**, Published in **WWW-23**)
 
       - title: LESG Technology (previously MillenniumIT)
         layout: left
