@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Amutheezan Sivagnanam
 title: PhD Candidate & Graduate Research Assistant
-email: aqs7319@psu.edu
+email: amutheezan@psu.edu
 website: www.amutheezan.com
 
 # Dark Mode (true/false/never)
@@ -48,7 +48,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/display_picture.jpeg
+about_profile_image: images/display_picture.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Amutheezan Sivagnanam.
 
