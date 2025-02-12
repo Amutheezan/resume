@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   My research interests are in the fields of Artificial Intelligence, more specificially on Optimization with Reinforcement Learning.
   
 content:
-  - title: Work Experience # Title for the section
+  - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - title: Pennsylvania State University
@@ -94,6 +94,7 @@ content:
           
           *  The Benefits of Vulnerability Discovery and Bug Bounty Programs (Presented in **WEIS-21**, Published in **WWW-23**)
 
+  - title: Engineering Experience # Title for the section
       - title: LESG Technology (previously MillenniumIT)
         layout: left
         link: https://www.lseg.com/markets-products-and-services/technology/lseg-technology
@@ -129,7 +130,7 @@ content:
     content:
       - title: Pennsylvania State University
         layout: left
-        caption: 2022 Fall | CGPA 4.00/4.00 
+        caption: F2022 - SU2025 | CGPA 4.00/4.00 
         sub_title: Ph.D. in Informatics
         description: |
            Course Works:
@@ -137,8 +138,8 @@ content:
         
       - title: University of Houston
         layout: left
-        caption: 2019 Fall - 2022 Summer | CGPA 4.00/4.00 
-        sub_title: M.Sc. in Computer and Information Sciences
+        caption: F2019 - SU2022 | CGPA 4.00/4.00 
+        sub_title: M.Sc. in Computer Science
         description: |
            Course Works:
            * Machine Learning
