@@ -132,7 +132,7 @@ content:
     content:
       - title: Pennsylvania State University
         layout: left
-        caption: F2022 - SU2025 | CGPA **4.00**/4.00 
+        caption: F2022 - SU2025 | CGPA 4.00/4.00 
         sub_title: Ph.D. in Informatics
         description: |
            Course Works:
@@ -140,7 +140,7 @@ content:
         
       - title: University of Houston
         layout: left
-        caption: F2019 - SU2022 | CGPA **4.00**/4.00 
+        caption: F2019 - SU2022 | CGPA 4.00/4.00 
         sub_title: M.Sc. in Computer Science
         description: |
            Course Works:
@@ -153,7 +153,7 @@ content:
 
       - title: University of Moratuwa
         layout: left
-        caption: 2014 Jan - 2018 Jan | CGPA **3.81**/4.20
+        caption: 2014 Jan - 2018 Jan | CGPA 3.81/4.20
         sub_title: B.Sc. in Engineering (Computer Science and Engineering)
         description: |
           Course Works:
