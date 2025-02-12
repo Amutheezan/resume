@@ -95,6 +95,8 @@ content:
           *  The Benefits of Vulnerability Discovery and Bug Bounty Programs (Presented in **WEIS-21**, Published in **WWW-23**)
 
   - title: Engineering Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - title: LESG Technology (previously MillenniumIT)
         layout: left
         link: https://www.lseg.com/markets-products-and-services/technology/lseg-technology
