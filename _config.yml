@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Amutheezan Sivagnanam
 title: PhD Candidate & Graduate Research Assistant
-email: amutheezan@psu.edu
+email: amutheezan.psu@gmail.com
 website: www.amutheezan.com
 
 # Dark Mode (true/false/never)
@@ -52,7 +52,7 @@ about_profile_image: images/DP.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Amutheezan Sivagnanam.
 
-  In Fall 2019, I joined the Resilient Networks and Systems (RNS) Lab as a Ph.D. student.
+  In Fall 2019, I joined the Applied Artificial Intelligence (AAI) Lab as a Ph.D. student.
 
   My research interests are in the fields of Artificial Intelligence, more specificially on Optimization with Reinforcement Learning.
   
@@ -82,7 +82,7 @@ content:
         caption: September 2019 - August 2022
         description: | # this will include new lines to allow paragraphs
 
-          Lab: **Resilient Networks and Systems Lab (RNSLab)**
+          Lab: **Applied Artificial Intelligence Lab (AAILab)**
 
           Supervisor: Dr. Aron Laszka
 
