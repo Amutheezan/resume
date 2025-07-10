@@ -52,10 +52,10 @@ about_profile_image: images/DP.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Amutheezan Sivagnanam.
 
-  In Fall 2019, I joined the Applied Artificial Intelligence (AAI) Lab as a Ph.D. student.
+  I’m a final-year Ph.D. candidate in Informatics at Penn State, where I build AI tools that help buses run on time, vehicles find the best routes, and ambulances reach people faster. 
 
-  My research interests are in the fields of Artificial Intelligence, more specificially on Optimization with Reinforcement Learning.
-  
+  My work mixes deep reinforcement learning with classic optimization and lots of real-world data so the systems make smart decisions in seconds and keep costs down. Along the way I’ve published first-author papers at ICML, AAAI, and IJCAI, shared open-source code so others can build on my work, and teamed up with industry partners to turn research ideas into working prototypes.
+
 content:
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
