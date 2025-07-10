@@ -72,7 +72,6 @@ content:
           Supervisor: Dr. Aron Laszka
 
           Duties:
-          
           * Spearheaded research projects funded by the U.S. Department of Energy (DOE) and the National Science Foundation (NSF).
           * Studied real-world decision-making problems and identified gaps in existing solution approaches.
           * Developed mathematical models and formulated problems to address these challenges.
@@ -82,7 +81,6 @@ content:
           * Applied DRL to solve online vehicle routing with advance booking, enabling real-time confirmations within seconds.
             
           Research Projects:
-
           * Multi-Agent Reinforcement Learning with Hierarchical Coordination for Emergency Responder Stationing (Published in **ICML-24**)
           
       - title: University of Houston
@@ -97,7 +95,6 @@ content:
           Supervisor: Dr. Aron Laszka
 
           Duties:
-          
           * Spearheaded research projects funded by the U.S. Department of Energy (DOE) and the National Science Foundation (NSF).
           * Studied real-world decision-making problems and identified gaps in existing solution approaches.
           * Developed mathematical models and formulated problem statements to effectively address these challenges.
@@ -108,7 +105,6 @@ content:
           * Collected and analyzed real-world data using Python to identify trends—such as changes in paratransit operations before and after COVID-19 and the impact of vulnerability reward programs.
 
           Research Projects:
-
           * Minimizing Energy Usage in Transit Agencies Operating with Mixed-Fleet of Vehicles (Published in **AAAI-21**)
           * Offline Vehicle Routing with Online Bookings (Published in **IJCAI-22**)
           * The Benefits of Vulnerability Discovery and Bug Bounty Programs (Presented in **WEIS-21**, Published in **WWW-23**)
@@ -124,10 +120,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Team: **Post Trade**
 
-          Reporting to: Sujith Gunawardana
+          Reporting to: Mr. Sujith Gunawardana
 
           Duties:
-          
           * Writing application software in the Object-Oriented manner.
           * Practicing agile development practices.
           * Working experience with languages such as Java, Python, and C++
@@ -151,7 +146,7 @@ content:
         description: |
           Team: **Data Analytics Team**
 
-          Reporting to: Anjana Fernando
+          Reporting to: Mr. Anjana Fernando
 
           Duties:
            * Alerting critical issues in the medical industry by evaluating the HL7Message.
