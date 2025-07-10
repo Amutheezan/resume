@@ -110,9 +110,7 @@ content:
           Research Projects:
 
           * Minimizing Energy Usage in Transit Agencies Operating with Mixed-Fleet of Vehicles (Published in **AAAI-21**)
-          
           * Offline Vehicle Routing with Online Bookings (Published in **IJCAI-22**)
-          
           * The Benefits of Vulnerability Discovery and Bug Bounty Programs (Presented in **WEIS-21**, Published in **WWW-23**)
 
   - title: Engineering Experience # Title for the section
@@ -124,16 +122,25 @@ content:
         sub_title: Software Engineer
         caption: Jan 2018 - Jul 2019
         description: | # this will include new lines to allow paragraphs
-          * Working experience with languages such as Java, Python, and C++.
+          Team: **Post Trade**
+
+          Reporting to: Sujith Gunawardana
+
+          Duties:
           
-          * Introduce Unit Testing for Libraries in Post Trade C++ Code.
-          
+          * Writing application software in the Object-Oriented manner.
+          * Practicing agile development practices.
+          * Working experience with languages such as Java, Python, and C++
+          * Introduce Unit Testing for Libraries in Post Trade C++ Code
           * Worked on Making changes in DB and Tested with BDD based Testing.
-          
-          * Completed the Code Integration works related to Back-End Regression.
-
+          * Worked on Duplicated Error Codes Identification and Replacement with valid New Error Codes.
+          * Developed DSO for Front-End End to End Testing.
+          * Analyzed and Changed Back-End Regression Script to work with both Old and New Testing Framework
+          * Developed a New Report Generation for Testing Framework, which used to be emailed at the end of regression.
+          * Completed the Code Integration works related to Back-End Regression
+          * Updated automatic updates to auto-generated codes based on Database changes using Integration Plans.
           * Participated in Code Integration and Code Deployment Plans.
-
+          * Participated in professional training programs conducted by Millennium IT Software and Post Trade Team.
           * Worked on Front-End Development for both Product and Solution which consists of Enhancement, Bug Fixing, Merging and Introducing new features.
 
       - title: WSO<sub>2</sub> Lanka (Pvt) Limited
@@ -142,10 +149,13 @@ content:
         sub_title: Software Engieering Intern
         caption: Jul 2016 - Dec 2016
         description: |
+          Team: **Data Analytics Team**
+
+          Reporting to: Anjana Fernando
+
+          Duties:
            * Alerting critical issues in the medical industry by evaluating the HL7Message.
-
            * Analysis of the Message flow through out the organization.
-
            * Enhancing the Query capabilities for Message with a highly complex combination of attribute.
          
   - title: Education # Title for the section
