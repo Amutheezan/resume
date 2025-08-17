@@ -50,11 +50,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/DP.png
 about_content: | # this will include new lines to allow paragraphs
+
 Hi, I’m Amutheezan Sivagnanam.
 
 I recently earned my Ph.D. in Informatics at Penn State, where I built AI tools that help buses run on time, vehicles find the best routes, and ambulances reach people faster.
 
-My research combines deep reinforcement learning with classic optimization and real-world data so that systems can make smart decisions in seconds while keeping costs down. Along the way, I’ve published first-author papers at ICML, AAAI, and IJCAI, released open-source code for others to build on, and collaborated with industry partners to turn research ideas into working prototypes.
+My research combines deep reinforcement learning with classic optimization and real-world data so that systems can make smart decisions in seconds while keeping costs down. 
+
+Along the way, I’ve published first-author papers at ICML, AAAI, and IJCAI, released open-source code for others to build on, and collaborated with industry partners to turn research ideas into working prototypes.
 
 content:
   - title: Research Experience # Title for the section
